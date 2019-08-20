@@ -1,14 +1,58 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"products": [{
+			"title": "Norse Mythology",
+			"img": "https://emusdebuts.files.wordpress.com/2018/04/the-benefits-of-being-an-octopus.jpg?w=341&h=512",
+			"price": 8.45,
+			"wasPrice": 8.99
+		},
+
+		{
+			"title": "The Benifits of being",
+			"img": "https://pro2-bar-s3-cdn-cf3.myportfolio.com/560d16623f9c2df9615744dfab551b3d/e50c016f-b6a8-4666-8fb8-fe6bd5fd9fec_rw_1920.jpeg?h=dc627898fc5eac88aa791fb2b124ecbd",
+			"price": 7.99,
+			"wasPrice": 10.99
+		},
+
+		{
+			"title": "Fred the lonely monster",
+			"img": "https://about.canva.com/wp-content/uploads/sites/3/2015/01/children_bookcover.png",
+			"price": 5.99,
+			"wasPrice": 7.99
+		},
+
+		{
+			"title": "Unleashing great teaching",
+			"img": "https://tdtrust.org/wp-content/uploads/2018/05/Book-cover.png",
+			"price": 8.99,
+			"wasPrice": 9.99
+		},
+
+		{
+			"title": "Unleashing",
+			"img": "https://tdtrust.org/wp-content/uploads/2018/05/Book-cover.png",
+			"price": 18.99,
+			"wasPrice": 19.99
+		},
+
+		{
+			"title": "Unleashing",
+			"img": "https://tdtrust.org/wp-content/uploads/2018/05/Book-cover.png",
+			"price": 18.99,
+			"wasPrice": 19.99
+		},
+
+		{
+			"title": "Unleashing",
+			"img": "https://tdtrust.org/wp-content/uploads/2018/05/Book-cover.png",
+			"price": 18.99,
+			"wasPrice": 19.99
+		},
+
+		{
+			"title": "Unleashing",
+			"img": "https://tdtrust.org/wp-content/uploads/2018/05/Book-cover.png",
+			"price": 18.99,
+			"wasPrice": 19.99
+		}
+	]
 }
