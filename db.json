@@ -175,5 +175,31 @@
 			"price": 18.99,
 			"wasPrice": 19.99
 		}
-	]
+	],
+	
+	"productData": {
+		"title": "Urban Art Legends",
+		"image": "/build/img/urban-arts.png",
+		"isbn": "9781910552056",
+		"format": "Hardback",
+		"description": "Urban Art Legends is the perfect companion for anyone wanting to learn more about the vibrant, exciting and constantly evolving art form of street art. From being spray-painted onto walls and trains, to enjoying acclaim in galleries and museums, the graffiti movement has changed. Far from being viewed as mindless...",
+		"price": 8.99,
+		"rrp": 11.99,
+		"synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"reviews": [{
+				"name": "Eliot Fu",
+				"postDays": 5,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+				"heartNum": 4,
+				"stars": 4
+			},
+			{
+				"name": "Richard Knoxville",
+				"postDays": 8,
+				"comment": "Lorem loren ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+				"heartNum": 6,
+				"stars": 5
+			}
+		]
+	}
 }
