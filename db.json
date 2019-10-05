@@ -61,6 +61,30 @@
 			"img": "https://tdtrust.org/wp-content/uploads/2018/05/Book-cover.png",
 			"price": 18.99,
 			"wasPrice": 19.99
+		},
+		      
+		{
+			"id": 9,
+			"title": "Unleashing",
+			"img": "https://tdtrust.org/wp-content/uploads/2018/05/Book-cover.png",
+			"price": 18.99,
+			"wasPrice": 19.99
+		},
+		      
+		{
+			"id": 10,
+			"title": "Unleashing",
+			"img": "https://tdtrust.org/wp-content/uploads/2018/05/Book-cover.png",
+			"price": 18.99,
+			"wasPrice": 19.99
+		},
+		      
+		{
+			"id": 11,
+			"title": "Unleashing",
+			"img": "https://tdtrust.org/wp-content/uploads/2018/05/Book-cover.png",
+			"price": 18.99,
+			"wasPrice": 19.99
 		}
 	],
 	"products-2":[{
